@@ -25,3 +25,7 @@ Working on this toolkit helped reinforce several foundational concepts in cybers
 This toolkit can be expanded in the future by including additional modules such as directory brute-forcing, banner grabbing, vulnerability checking via CVEs, or even a basic web scanner. The goal of this task is not to build a professional-grade tool, but to explore the components and logic that make up such tools. It serves as a great entry point into the world of ethical hacking and penetration testing.
 
 This marks the successful completion of the task titled “PENETRATION TESTING TOOLKIT” as part of the CodTech cybersecurity internship program.
+
+output:
+
+![Image](https://github.com/user-attachments/assets/346e85af-1887-47c3-8d1b-d88300e02c39)
