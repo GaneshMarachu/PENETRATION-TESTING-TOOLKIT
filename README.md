@@ -28,6 +28,16 @@ This toolkit can be expanded in the future by including additional modules such 
 
 This marks the successful completion of the task titled “PENETRATION TESTING TOOLKIT” as part of the CodTech cybersecurity internship program.
 
+## Disclaimer
+
+This tool is developed for **educational purposes** and **authorized security testing** only.  
+Do not use this software to scan or attack systems without explicit, written permission from the owner.  
+Unauthorized use is illegal under cybersecurity and data protection laws.
+
+The author takes **no responsibility** for any misuse or damage caused by this tool.  
+Use responsibly, ethically, and within the boundaries of the law.
+
+
 output:
 
 ![Image](https://github.com/user-attachments/assets/346e85af-1887-47c3-8d1b-d88300e02c39)
